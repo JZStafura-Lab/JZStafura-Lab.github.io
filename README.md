@@ -14,74 +14,67 @@ JAB Lab investigates human cognition through experimental methods, ecological as
 - Real-time cognitive and behavioral dynamics
 
 **Principal Investigator:** Joseph Zach Staffura, PhD
+
 - [Google Scholar](https://scholar.google.com/citations?user=F6LcYIoAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/jzstafura)
 
 ## Current Projects
 
 ### Violence Research
+
 Investigating cognitive and social factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
 
 ### Hallucinations Study
+
 Examining perceptual and cognitive mechanisms of hallucinations across clinical and non-clinical populations. Exploring phenomenology, neural correlates, and assessment methods.
 
 ### Evaluation Methods
+
 Developing and validating assessment tools for individual and team performance. Emphasis on ecologically valid measurement in applied settings.
 
 ## Repository Structure
-'''
+
+```
 JZStafura-Lab.github.io/
-├── README.md                          # Main repo README (already drafted)
-├── LICENSE                            # MIT License (you have this)
-├── .gitignore                         # Python + R entries
-├── _quarto.yml                        # Quarto site configuration
-│
-├── index.qmd                          # Homepage (already drafted)
-├── projects.qmd                       # Projects overview page
-├── publications.qmd                   # Publications list
-├── code.qmd                           # Code/tools showcase
-├── about.qmd                          # Extended about/CV (optional)
-│
-├── projects/                          # Project-specific content
+├── README.md                     # Main repository documentation
+├── LICENSE                       # MIT License
+├── .gitignore                    # Python + R
+├── _quarto.yml                   # Quarto site configuration
+├── index.qmd                     # Homepage
+├── projects.qmd                  # Projects overview
+├── publications.qmd              # Publications list
+├── code.qmd                      # Code/tools showcase
+├── projects/                     # Project-specific content
 │   ├── violence/
-│   │   ├── README.md                  # Violence project README (drafted above)
+│   │   ├── README.md
 │   │   ├── analysis/
 │   │   ├── preprocessing/
 │   │   └── visualization/
 │   ├── hallucinations/
-│   │   ├── README.md                  # Hallucinations project README (drafted above)
+│   │   ├── README.md
 │   │   ├── assessment/
 │   │   ├── analysis/
 │   │   └── visualization/
 │   └── evaluation/
-│       ├── README.md                  # Evaluation project README (drafted above)
+│       ├── README.md
 │       ├── ema-tools/
 │       ├── psychometrics/
 │       ├── modeling/
 │       └── visualization/
-│
-├── code/                              # Shared/reusable code
+├── code/                         # Shared/reusable code
 │   ├── python/
-│   │   ├── utils/
-│   │   └── examples/
 │   └── r/
-│       ├── utils/
-│       └── examples/
-│
 ├── data/
-│   └── examples/                      # Small example datasets only
-│
-├── docs/                              # Quarto output (GitHub Pages serves from here)
-│   └── [generated HTML files]
-│
-└── assets/                            # Images, CSS, logos
+│   └── examples/                 # Small example datasets only
+├── docs/                         # Quarto output (GitHub Pages)
+└── assets/                       # Images, CSS, logos
     ├── jab_lab_logo.png
     └── css/
-'''
+```
 
 ## Website
 
-Visit the lab website: [https://jzstafura-lab.github.io](https://jzstafura-lab.github.io)
+Visit the lab website: <https://jzstafura-lab.github.io>
 
 Built with [Quarto](https://quarto.org) for reproducible research communication.
 
@@ -93,13 +86,12 @@ Built with [Quarto](https://quarto.org) for reproducible research communication.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the <LICENSE> file for details.
 
 ## Contact
 
 For research inquiries or collaboration opportunities, connect via [LinkedIn](https://www.linkedin.com/in/jzstafura).
 
----
+-----
 
 *Under active development*
-
