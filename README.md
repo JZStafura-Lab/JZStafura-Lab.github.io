@@ -19,15 +19,18 @@ JAB Lab investigates human cognition through experimental methods, ecological as
 
 ### Violence Research
 
-Investigating cognitive and social factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
+Phase 1 is a website that explores  cognitive, social, and ecological factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
 
-### Hallucinations Study
+Phase 2 (planned) model cards are created for each source collected in Phase 1, containing features from the articles, such as theoretical hypotheses, empirical findings, sample characteristics. The model card will drive an end-user filtered search for real world events through such sources as X, News RSS Feeds, and Real-Time databases such as ACLED. 
 
-Examining perceptual and cognitive mechanisms of hallucinations across clinical and non-clinical populations. Exploring phenomenology, neural correlates, and assessment methods.
+### Hallucitations Study
+
+Examining the domain and expertise factorz underlying submitted and published texts containing AI hallucinations (e.g., "Hallucitations"). Currently conducting a pilot study with resource assitance from GPTZero.
 
 ### Evaluation Methods
 
-Developing and validating assessment tools for individual and team performance. Emphasis on ecologically valid measurement in applied settings.
+Exploratory look into the frameworks and methods in Educational Evaluation 
+and AI Evaluation. Where do best practices exist? Where does Evaluation in the domains differ in terms of validity, replicablity, and overall accessibility to end users. What can micro-sociology tell us about small scale evaluations of larger systems?
 
 ## Repository Structure
 
@@ -54,8 +57,8 @@ JZStafura-Lab.github.io/
 │   │   └── visualization/
 │   └── evaluation/
 │       ├── README.md
-│       ├── ema-tools/
-│       ├── psychometrics/
+│       ├── eval_tools_ed/
+│       ├── eval_tools_ai/
 │       ├── modeling/
 │       └── visualization/
 ├── code/                         # Shared/reusable code
