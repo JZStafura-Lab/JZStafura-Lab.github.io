@@ -10,7 +10,7 @@ JAB Lab uses modern technology to amplify the creation of research tools and the
 
 JAB Lab investigates human cognition through experimental methods, ecological assessment, and computational analytics. Research focuses on understanding socio- cognitive processes in naturalistic contexts, including with AI. 
 
-**Principal Investigator:** Joseph Zach Staffura, PhD
+**Principal Investigator:** Joseph Zachary (JZ) Stafura, PhD
 
 - [Google Scholar](https://scholar.google.com/citations?user=F6LcYIoAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/jzstafura)
