@@ -29,7 +29,7 @@ Examining perceptual and cognitive mechanisms of hallucinations across clinical 
 Developing and validating assessment tools for individual and team performance. Emphasis on ecologically valid measurement in applied settings.
 
 ## Repository Structure
-
+'''
 JZStafura-Lab.github.io/
 ├── README.md                          # Main repo README (already drafted)
 ├── LICENSE                            # MIT License (you have this)
@@ -77,7 +77,7 @@ JZStafura-Lab.github.io/
 └── assets/                            # Images, CSS, logos
     ├── jab_lab_logo.png
     └── css/
-
+'''
 
 ## Website
 
