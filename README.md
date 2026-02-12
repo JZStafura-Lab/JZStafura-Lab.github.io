@@ -6,12 +6,9 @@ This repository serves as both the source for the JAB Lab website and a hub for 
 
 ## About
 
-JAB Lab investigates human cognition through experimental methods, ecological assessment, and computational analytics. Research focuses on understanding cognitive processes in naturalistic contexts, with emphasis on:
+JAB Lab uses modern technology to amplify the creation of research tools and the execution of small scale research. We use a learning-while-doing approach that insures content knowledge development through systematic curation and synthesis, as well as flexibility in execution. Hopefully, we also help some people.
 
-- Ecological Momentary Assessment (EMA) methodologies
-- Team performance and individual development
-- Language, memory, and motivation
-- Real-time cognitive and behavioral dynamics
+JAB Lab investigates human cognition through experimental methods, ecological assessment, and computational analytics. Research focuses on understanding socio- cognitive processes in naturalistic contexts, including with AI. 
 
 **Principal Investigator:** Joseph Zach Staffura, PhD
 
