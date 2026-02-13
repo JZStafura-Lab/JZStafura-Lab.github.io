@@ -6,9 +6,9 @@ This repository serves as both the source for the JAB Lab website and a hub for 
 
 ## About
 
-JAB Lab uses modern technology to amplify the creation of research tools and the execution of small scale research. We use a learning-while-doing approach that insures content knowledge development through systematic curation and synthesis, as well as flexibility in execution. Hopefully, we also help some people.
+JAB Lab uses modern technology to amplify the creation of research tools and the execution of small scale research. We use a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution.
 
-JAB Lab investigates human cognition through experimental methods, ecological assessment, and computational analytics. Research focuses on understanding socio- cognitive processes in naturalistic contexts, including with AI. 
+JAB Lab investigates human cognition through experimental methods, ecological assessment, and computational analytics. Research focuses on understanding socio-cognitive processes in naturalistic contexts.
 
 **Principal Investigator:** Joseph Zachary (JZ) Stafura, PhD
 
@@ -18,19 +18,13 @@ JAB Lab investigates human cognition through experimental methods, ecological as
 ## Current Projects
 
 ### Violence Research
+Exploring cognitive, social, and ecological factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
 
-Phase 1 is a website that explores  cognitive, social, and ecological factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
-
-Phase 2 (planned) model cards are created for each source collected in Phase 1, containing features from the articles, such as theoretical hypotheses, empirical findings, sample characteristics. The model card will drive an end-user filtered search for real world events through such sources as X, News RSS Feeds, and Real-Time databases such as ACLED. 
-
-### Hallucitations Study
-
-Examining the domain and expertise factors underlying submitted and published texts containing AI hallucinations (e.g., "Hallucitations"). Currently conducting a pilot study with resource assitance from GPTZero.
+### Hallucitation Project
+Examining domain and expertise factors underlying submitted and published texts containing AI hallucinations. Pilot study ongoing with resource assistance from GPTZero.
 
 ### Evaluation Methods
-
-Exploratory look into the frameworks and methods in Educational Evaluation 
-and AI Evaluation. Where do best practices exist? Where does Evaluation in the domains differ in terms of validity, replicablity, and overall accessibility to end users. What can micro-sociology tell us about small scale evaluations of larger systems?
+Exploratory look into frameworks and methods in Educational Evaluation and AI Evaluation, comparing best practices, validity, replicability, and accessibility.
 
 ## Repository Structure
 
@@ -38,60 +32,58 @@ and AI Evaluation. Where do best practices exist? Where does Evaluation in the d
 JZStafura-Lab.github.io/
 ├── README.md                     # Main repository documentation
 ├── LICENSE                       # MIT License
-├── .gitignore                    # Python + R
+├── .gitignore                    # Python + R ignore patterns
 ├── _quarto.yml                   # Quarto site configuration
 ├── index.qmd                     # Homepage
+├── about.qmd                     # About page
 ├── projects.qmd                  # Projects overview
 ├── publications.qmd              # Publications list
 ├── code.qmd                      # Code/tools showcase
-├── projects/                     # Project-specific content
-│   ├── violence/
-│   │   ├── README.md
-│   │   ├── analysis/
-│   │   ├── preprocessing/
-│   │   └── visualization/
-│   ├── hallucinations/
-│   │   ├── README.md
-│   │   ├── assessment/
-│   │   ├── analysis/
-│   │   └── visualization/
-│   └── evaluation/
-│       ├── README.md
-│       ├── eval_tools_ed/
-│       ├── eval_tools_ai/
-│       ├── modeling/
-│       └── visualization/
-├── code/                         # Shared/reusable code
-│   ├── python/
-│   └── r/
-├── data/
-│   └── examples/                 # Small example datasets only
-├── docs/                         # Quarto output (GitHub Pages)
-└── assets/                       # Images, CSS, logos
-    ├── jab_lab_logo.png
-    └── css/
+├── styles.css                    # Custom styling
+├── projects/                     # Project-specific content (coming soon)
+├── code/                         # Shared/reusable code (coming soon)
+├── data/                         # Example datasets (coming soon)
+├── assets/                       # Images, CSS, logos
+│   ├── jab_lab_logo.png
+│   └── css/
+├── docs/                         # Quarto output → GitHub Pages
+└── _site/                        # Local build output
 ```
 
 ## Website
 
-Visit the lab website: <https://jzstafura-lab.github.io>
+Live at: <https://jzstafura-lab.github.io>
 
 Built with [Quarto](https://quarto.org) for reproducible research communication.
 
 ## Technologies
 
 - **Languages:** R, Python, SQL
-- **Statistical Methods:** GLM tradition, mixed models, psychometrics
-- **Tools:** Quarto, RStudio, Jupyter, Git
+- **Statistical Methods:** GLM tradition, mixed models, psychometrics  
+- **Framework:** Quarto for literate programming and publishing
+- **Tools:** RStudio, Git/GitHub
+
+## Development
+
+```bash
+# Preview site locally
+quarto preview
+
+# Render site
+quarto render
+
+# Deploy to GitHub Pages (automatic via GitHub Actions)
+git push origin main
+```
 
 ## License
 
-This project is licensed under the MIT License - see the <LICENSE> file for details.
+MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For research inquiries or collaboration opportunities, connect via [LinkedIn](https://www.linkedin.com/in/jzstafura).
+For research inquiries or collaboration: [LinkedIn](https://www.linkedin.com/in/jzstafura)
 
------
+---
 
-*Under active development*
+*Active development • Updated Feb 2026*

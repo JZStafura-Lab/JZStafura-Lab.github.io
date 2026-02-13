@@ -4,10 +4,8 @@ title: "Projects"
 
 ## Current Research
 
-### Violence Research
-
-Investigating cognitive and social factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
-
+### [Violence Research Dashboard](/projects/violence/dashboard/index.html)
+Interactive evidence synthesis exploring ecological levels of violence
 **Methods:** Ecological Momentary Assessment, longitudinal modeling, risk assessment validation
 
 **Status:** Active - Data collection and analysis ongoing
