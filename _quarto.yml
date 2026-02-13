@@ -5,6 +5,7 @@ project:
 website:
   title: "JAB Lab"
   navbar:
+    logo: assets/jab_lab_icon.svg
     left:
       - href: index.qmd
         text: Home

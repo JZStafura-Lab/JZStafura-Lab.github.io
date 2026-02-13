@@ -1,5 +1,5 @@
 ---
-title: "JAB Lab"
+title: "Joe's Astoundingly Broke (JAB) Lab"
 subtitle: "Cognitive Psychology, Neuroscience & Data Science"
 ---
 
