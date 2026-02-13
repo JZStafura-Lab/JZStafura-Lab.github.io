@@ -95,35 +95,49 @@
     "href": "code.html",
     "title": "Code & Tools",
     "section": "",
-    "text": "This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.\nAll code is available on GitHub."
+    "text": "Research tools and utilities developed for evidence synthesis, literature curation, and computational analysis. Built with modern data science and reproducible workflows.\nAll code available on GitHub."
   },
   {
     "objectID": "code.html#overview",
     "href": "code.html#overview",
     "title": "Code & Tools",
     "section": "",
-    "text": "This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.\nAll code is available on GitHub."
+    "text": "Research tools and utilities developed for evidence synthesis, literature curation, and computational analysis. Built with modern data science and reproducible workflows.\nAll code available on GitHub."
   },
   {
-    "objectID": "code.html#research-tools",
-    "href": "code.html#research-tools",
+    "objectID": "code.html#research-infrastructure",
+    "href": "code.html#research-infrastructure",
     "title": "Code & Tools",
-    "section": "Research Tools",
-    "text": "Research Tools\n\nEMA & Text-Based Assessment\nTools for ecological momentary assessment and SMS-based data collection systems.\nTechnologies: Python, R, SMS APIs\nStatus: In development\n\n\n\nStatistical Analysis Utilities\nReusable functions for mixed models, psychometric analysis, and longitudinal data.\nTechnologies: R, Python (statsmodels, scikit-learn)\nStatus: In development\n\n\n\nData Visualization\nCustom plotting functions and dashboard templates for research reporting.\nTechnologies: R (ggplot2), Python (matplotlib, plotly)\nStatus: In development"
+    "section": "Research Infrastructure",
+    "text": "Research Infrastructure\n\nEvidence Synthesis Dashboards\nInteractive web-based tools for systematic literature curation and knowledge synthesis.\nFeatured: Violence Research Dashboard - Multi-level ecological evidence browser with citation management\nTechnologies: HTML/CSS/JavaScript, JSON data structures, interactive filtering\nStatus: Active - Violence dashboard deployed\n\n\n\nLLM-Assisted Research Tools\nUtilities for literature synthesis, citation extraction, and knowledge graph construction using large language models.\nApplications: Automated citation parsing, theoretical framework extraction, model card generation\nTechnologies: Python, Claude API, prompt engineering, structured output parsing\nStatus: In development\n\n\n\nCitation & Reference Management\nTools for managing research literature, detecting hallucitated citations, and maintaining bibliographic databases.\nTechnologies: Python, BibTeX, JSON schemas, text analysis\nStatus: Active - Hallucitation detection pilot"
   },
   {
-    "objectID": "code.html#example-datasets",
-    "href": "code.html#example-datasets",
+    "objectID": "code.html#analysis-visualization",
+    "href": "code.html#analysis-visualization",
     "title": "Code & Tools",
-    "section": "Example Datasets",
-    "text": "Example Datasets\nSmall, anonymized example datasets for methodological demonstrations available in the repository."
+    "section": "Analysis & Visualization",
+    "text": "Analysis & Visualization\n\nStatistical Modeling\nReusable functions for mixed models, psychometric analysis, SEM, and longitudinal data.\nTechnologies: R (lme4, lavaan, psych), Python (statsmodels, scikit-learn)\nStatus: In development\n\n\n\nInteractive Dashboards\nCustom visualization and reporting tools for research communication.\nTechnologies: R (ggplot2, plotly), Python (matplotlib, seaborn), Quarto, HTML/CSS\nFeatured: Ecological-level violence synthesis, citation browsers\nStatus: Active\n\n\n\nReproducible Workflows\nQuarto-based analysis pipelines for transparent, version-controlled research.\nTechnologies: Quarto, R Markdown, Jupyter, Git/GitHub\nStatus: Active - Lab website built with Quarto"
+  },
+  {
+    "objectID": "code.html#data-collection-legacy",
+    "href": "code.html#data-collection-legacy",
+    "title": "Code & Tools",
+    "section": "Data Collection (Legacy)",
+    "text": "Data Collection (Legacy)\n\nEcological Momentary Assessment\nTools for EMA and text-based data collection from previous work.\nTechnologies: Python, R, SMS APIs, mobile platforms\nStatus: Archived - Available for reference"
+  },
+  {
+    "objectID": "code.html#example-code",
+    "href": "code.html#example-code",
+    "title": "Code & Tools",
+    "section": "Example Code",
+    "text": "Example Code\nSmall, annotated code examples and datasets for methodological demonstrations available in the repository."
   },
   {
     "objectID": "code.html#contributing",
     "href": "code.html#contributing",
     "title": "Code & Tools",
     "section": "Contributing",
-    "text": "Contributing\nInterested in collaborating? Connect via LinkedIn."
+    "text": "Contributing\nInterested in tools collaboration or have questions? Connect via LinkedIn."
   },
   {
     "objectID": "projects.html",

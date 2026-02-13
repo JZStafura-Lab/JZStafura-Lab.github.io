@@ -139,13 +139,23 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#research-tools" id="toc-research-tools" class="nav-link" data-scroll-target="#research-tools">Research Tools</a>
+  <li><a href="#research-infrastructure" id="toc-research-infrastructure" class="nav-link" data-scroll-target="#research-infrastructure">Research Infrastructure</a>
   <ul class="collapse">
-  <li><a href="#ema-text-based-assessment" id="toc-ema-text-based-assessment" class="nav-link" data-scroll-target="#ema-text-based-assessment">EMA &amp; Text-Based Assessment</a></li>
-  <li><a href="#statistical-analysis-utilities" id="toc-statistical-analysis-utilities" class="nav-link" data-scroll-target="#statistical-analysis-utilities">Statistical Analysis Utilities</a></li>
-  <li><a href="#data-visualization" id="toc-data-visualization" class="nav-link" data-scroll-target="#data-visualization">Data Visualization</a></li>
+  <li><a href="#evidence-synthesis-dashboards" id="toc-evidence-synthesis-dashboards" class="nav-link" data-scroll-target="#evidence-synthesis-dashboards">Evidence Synthesis Dashboards</a></li>
+  <li><a href="#llm-assisted-research-tools" id="toc-llm-assisted-research-tools" class="nav-link" data-scroll-target="#llm-assisted-research-tools">LLM-Assisted Research Tools</a></li>
+  <li><a href="#citation-reference-management" id="toc-citation-reference-management" class="nav-link" data-scroll-target="#citation-reference-management">Citation &amp; Reference Management</a></li>
   </ul></li>
-  <li><a href="#example-datasets" id="toc-example-datasets" class="nav-link" data-scroll-target="#example-datasets">Example Datasets</a></li>
+  <li><a href="#analysis-visualization" id="toc-analysis-visualization" class="nav-link" data-scroll-target="#analysis-visualization">Analysis &amp; Visualization</a>
+  <ul class="collapse">
+  <li><a href="#statistical-modeling" id="toc-statistical-modeling" class="nav-link" data-scroll-target="#statistical-modeling">Statistical Modeling</a></li>
+  <li><a href="#interactive-dashboards" id="toc-interactive-dashboards" class="nav-link" data-scroll-target="#interactive-dashboards">Interactive Dashboards</a></li>
+  <li><a href="#reproducible-workflows" id="toc-reproducible-workflows" class="nav-link" data-scroll-target="#reproducible-workflows">Reproducible Workflows</a></li>
+  </ul></li>
+  <li><a href="#data-collection-legacy" id="toc-data-collection-legacy" class="nav-link" data-scroll-target="#data-collection-legacy">Data Collection (Legacy)</a>
+  <ul class="collapse">
+  <li><a href="#ecological-momentary-assessment" id="toc-ecological-momentary-assessment" class="nav-link" data-scroll-target="#ecological-momentary-assessment">Ecological Momentary Assessment</a></li>
+  </ul></li>
+  <li><a href="#example-code" id="toc-example-code" class="nav-link" data-scroll-target="#example-code">Example Code</a></li>
   <li><a href="#contributing" id="toc-contributing" class="nav-link" data-scroll-target="#contributing">Contributing</a></li>
   </ul>
 </nav>
@@ -174,42 +184,79 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.</p>
-<p>All code is available on <a href="https://github.com/JZStafura-Lab">GitHub</a>.</p>
+<p>Research tools and utilities developed for evidence synthesis, literature curation, and computational analysis. Built with modern data science and reproducible workflows.</p>
+<p>All code available on <a href="https://github.com/JZStafura-Lab">GitHub</a>.</p>
 <hr>
 </section>
-<section id="research-tools" class="level2">
-<h2 class="anchored" data-anchor-id="research-tools">Research Tools</h2>
-<section id="ema-text-based-assessment" class="level3">
-<h3 class="anchored" data-anchor-id="ema-text-based-assessment">EMA &amp; Text-Based Assessment</h3>
-<p>Tools for ecological momentary assessment and SMS-based data collection systems.</p>
-<p><strong>Technologies:</strong> Python, R, SMS APIs</p>
+<section id="research-infrastructure" class="level2">
+<h2 class="anchored" data-anchor-id="research-infrastructure">Research Infrastructure</h2>
+<section id="evidence-synthesis-dashboards" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-synthesis-dashboards">Evidence Synthesis Dashboards</h3>
+<p>Interactive web-based tools for systematic literature curation and knowledge synthesis.</p>
+<p><strong>Featured:</strong> <a href="./projects/violence/dashboard/">Violence Research Dashboard</a> - Multi-level ecological evidence browser with citation management</p>
+<p><strong>Technologies:</strong> HTML/CSS/JavaScript, JSON data structures, interactive filtering</p>
+<p><strong>Status:</strong> Active - Violence dashboard deployed</p>
+<hr>
+</section>
+<section id="llm-assisted-research-tools" class="level3">
+<h3 class="anchored" data-anchor-id="llm-assisted-research-tools">LLM-Assisted Research Tools</h3>
+<p>Utilities for literature synthesis, citation extraction, and knowledge graph construction using large language models.</p>
+<p><strong>Applications:</strong> Automated citation parsing, theoretical framework extraction, model card generation</p>
+<p><strong>Technologies:</strong> Python, Claude API, prompt engineering, structured output parsing</p>
 <p><strong>Status:</strong> In development</p>
 <hr>
 </section>
-<section id="statistical-analysis-utilities" class="level3">
-<h3 class="anchored" data-anchor-id="statistical-analysis-utilities">Statistical Analysis Utilities</h3>
-<p>Reusable functions for mixed models, psychometric analysis, and longitudinal data.</p>
-<p><strong>Technologies:</strong> R, Python (statsmodels, scikit-learn)</p>
-<p><strong>Status:</strong> In development</p>
-<hr>
-</section>
-<section id="data-visualization" class="level3">
-<h3 class="anchored" data-anchor-id="data-visualization">Data Visualization</h3>
-<p>Custom plotting functions and dashboard templates for research reporting.</p>
-<p><strong>Technologies:</strong> R (ggplot2), Python (matplotlib, plotly)</p>
-<p><strong>Status:</strong> In development</p>
+<section id="citation-reference-management" class="level3">
+<h3 class="anchored" data-anchor-id="citation-reference-management">Citation &amp; Reference Management</h3>
+<p>Tools for managing research literature, detecting hallucitated citations, and maintaining bibliographic databases.</p>
+<p><strong>Technologies:</strong> Python, BibTeX, JSON schemas, text analysis</p>
+<p><strong>Status:</strong> Active - Hallucitation detection pilot</p>
 <hr>
 </section>
 </section>
-<section id="example-datasets" class="level2">
-<h2 class="anchored" data-anchor-id="example-datasets">Example Datasets</h2>
-<p>Small, anonymized example datasets for methodological demonstrations available in the <a href="https://github.com/JZStafura-Lab/JZStafura-Lab.github.io/tree/main/data/examples">repository</a>.</p>
+<section id="analysis-visualization" class="level2">
+<h2 class="anchored" data-anchor-id="analysis-visualization">Analysis &amp; Visualization</h2>
+<section id="statistical-modeling" class="level3">
+<h3 class="anchored" data-anchor-id="statistical-modeling">Statistical Modeling</h3>
+<p>Reusable functions for mixed models, psychometric analysis, SEM, and longitudinal data.</p>
+<p><strong>Technologies:</strong> R (lme4, lavaan, psych), Python (statsmodels, scikit-learn)</p>
+<p><strong>Status:</strong> In development</p>
+<hr>
+</section>
+<section id="interactive-dashboards" class="level3">
+<h3 class="anchored" data-anchor-id="interactive-dashboards">Interactive Dashboards</h3>
+<p>Custom visualization and reporting tools for research communication.</p>
+<p><strong>Technologies:</strong> R (ggplot2, plotly), Python (matplotlib, seaborn), Quarto, HTML/CSS</p>
+<p><strong>Featured:</strong> Ecological-level violence synthesis, citation browsers</p>
+<p><strong>Status:</strong> Active</p>
+<hr>
+</section>
+<section id="reproducible-workflows" class="level3">
+<h3 class="anchored" data-anchor-id="reproducible-workflows">Reproducible Workflows</h3>
+<p>Quarto-based analysis pipelines for transparent, version-controlled research.</p>
+<p><strong>Technologies:</strong> Quarto, R Markdown, Jupyter, Git/GitHub</p>
+<p><strong>Status:</strong> Active - Lab website built with Quarto</p>
+<hr>
+</section>
+</section>
+<section id="data-collection-legacy" class="level2">
+<h2 class="anchored" data-anchor-id="data-collection-legacy">Data Collection (Legacy)</h2>
+<section id="ecological-momentary-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="ecological-momentary-assessment">Ecological Momentary Assessment</h3>
+<p>Tools for EMA and text-based data collection from previous work.</p>
+<p><strong>Technologies:</strong> Python, R, SMS APIs, mobile platforms</p>
+<p><strong>Status:</strong> Archived - Available for reference</p>
+<hr>
+</section>
+</section>
+<section id="example-code" class="level2">
+<h2 class="anchored" data-anchor-id="example-code">Example Code</h2>
+<p>Small, annotated code examples and datasets for methodological demonstrations available in the <a href="https://github.com/JZStafura-Lab/JZStafura-Lab.github.io/tree/main/code">repository</a>.</p>
 <hr>
 </section>
 <section id="contributing" class="level2">
 <h2 class="anchored" data-anchor-id="contributing">Contributing</h2>
-<p>Interested in collaborating? Connect via <a href="https://www.linkedin.com/in/jzstafura">LinkedIn</a>.</p>
+<p>Interested in tools collaboration or have questions? Connect via <a href="https://www.linkedin.com/in/jzstafura">LinkedIn</a>.</p>
 
 
 </section>

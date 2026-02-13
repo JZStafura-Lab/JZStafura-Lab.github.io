@@ -4,47 +4,93 @@ title: "Code & Tools"
 
 ## Overview
 
-This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.
+Research tools and utilities developed for evidence synthesis, literature curation, and computational analysis. Built with modern data science and reproducible workflows.
 
-All code is available on [GitHub](https://github.com/JZStafura-Lab).
+All code available on [GitHub](https://github.com/JZStafura-Lab).
 
 ---
 
-## Research Tools
+## Research Infrastructure
 
-### EMA & Text-Based Assessment
-Tools for ecological momentary assessment and SMS-based data collection systems.
+### Evidence Synthesis Dashboards
+Interactive web-based tools for systematic literature curation and knowledge synthesis.
 
-**Technologies:** Python, R, SMS APIs
+**Featured:** [Violence Research Dashboard](/projects/violence/dashboard/) - Multi-level ecological evidence browser with citation management
+
+**Technologies:** HTML/CSS/JavaScript, JSON data structures, interactive filtering
+
+**Status:** Active - Violence dashboard deployed
+
+---
+
+### LLM-Assisted Research Tools
+Utilities for literature synthesis, citation extraction, and knowledge graph construction using large language models.
+
+**Applications:** Automated citation parsing, theoretical framework extraction, model card generation
+
+**Technologies:** Python, Claude API, prompt engineering, structured output parsing
 
 **Status:** In development
 
 ---
 
-### Statistical Analysis Utilities
-Reusable functions for mixed models, psychometric analysis, and longitudinal data.
+### Citation & Reference Management
+Tools for managing research literature, detecting hallucitated citations, and maintaining bibliographic databases.
 
-**Technologies:** R, Python (statsmodels, scikit-learn)
+**Technologies:** Python, BibTeX, JSON schemas, text analysis
+
+**Status:** Active - Hallucitation detection pilot
+
+---
+
+## Analysis & Visualization
+
+### Statistical Modeling
+Reusable functions for mixed models, psychometric analysis, SEM, and longitudinal data.
+
+**Technologies:** R (lme4, lavaan, psych), Python (statsmodels, scikit-learn)
 
 **Status:** In development
 
 ---
 
-### Data Visualization
-Custom plotting functions and dashboard templates for research reporting.
+### Interactive Dashboards
+Custom visualization and reporting tools for research communication.
 
-**Technologies:** R (ggplot2), Python (matplotlib, plotly)
+**Technologies:** R (ggplot2, plotly), Python (matplotlib, seaborn), Quarto, HTML/CSS
 
-**Status:** In development
+**Featured:** Ecological-level violence synthesis, citation browsers
+
+**Status:** Active
 
 ---
 
-## Example Datasets
+### Reproducible Workflows
+Quarto-based analysis pipelines for transparent, version-controlled research.
 
-Small, anonymized example datasets for methodological demonstrations available in the [repository](https://github.com/JZStafura-Lab/JZStafura-Lab.github.io/tree/main/data/examples).
+**Technologies:** Quarto, R Markdown, Jupyter, Git/GitHub
+
+**Status:** Active - Lab website built with Quarto
+
+---
+
+## Data Collection (Legacy)
+
+### Ecological Momentary Assessment
+Tools for EMA and text-based data collection from previous work.
+
+**Technologies:** Python, R, SMS APIs, mobile platforms
+
+**Status:** Archived - Available for reference
+
+---
+
+## Example Code
+
+Small, annotated code examples and datasets for methodological demonstrations available in the [repository](https://github.com/JZStafura-Lab/JZStafura-Lab.github.io/tree/main/code).
 
 ---
 
 ## Contributing
 
-Interested in collaborating? Connect via [LinkedIn](https://www.linkedin.com/in/jzstafura).
+Interested in tools collaboration or have questions? Connect via [LinkedIn](https://www.linkedin.com/in/jzstafura).
