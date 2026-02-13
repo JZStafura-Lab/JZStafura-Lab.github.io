@@ -14,15 +14,15 @@ Interactive evidence synthesis exploring ecological levels of violence
 
 ---
 
-### Hallucinations Study
+### Hallucitation Project
 
-Examining perceptual and cognitive mechanisms of hallucinations across clinical and non-clinical populations. Exploring phenomenology, neural correlates, and assessment methods.
+Examining domain and expertise factors underlying AI-generated citation hallucinations in scholarly and professional writing. Investigating when and why hallucinated citations ("hallucitations") appear in submitted and published texts.
 
-**Methods:** Phenomenological interviews, cognitive assessment, psychometric validation, experience sampling
+**Methods:** Text analysis, citation verification, domain expertise assessment, LLM-assisted detection
 
-**Status:** Active - Assessment development and validation phase
+**Status:** Pilot study - In progress with resource assistance from GPTZero
 
-[View project details](projects/hallucinations/)
+[View project details](projects/hallucitations/)
 
 ---
 
