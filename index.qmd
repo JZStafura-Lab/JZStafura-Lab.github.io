@@ -1,35 +1,58 @@
 ---
 title: "JAB Lab"
-subtitle: "Cognitive Psychology & Data Science"
+subtitle: "Cognitive Psychology, Neuroscience & Data Science"
 ---
 
 ## Welcome
 
-JAB Lab focuses on understanding human cognition through rigorous experimental methods and advanced analytics. We explore questions at the intersection of cognitive psychology, neuroscience, and real-world behavior.
+JAB Lab uses modern technology to amplify the creation of research tools and the execution of small-scale research. We take a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution.
 
 ## Research Interests
 
-- Cognitive processes in naturalistic contexts
-- Ecological Momentary Assessment (EMA) methodologies
-- Team performance and individual development
-- Language, memory, and motivation
-- Computational approaches to psychological data
+Current work explores cognitive and social processes through evidence synthesis, computational methods, and tool development:
+
+- **Violence research**: Multi-level evidence synthesis across individual, relational, community, and societal factors
+- **AI evaluation**: Examining hallucinated citations in scholarly work; comparing evaluation frameworks in education vs. AI domains
+- **Research tools**: Building platforms for literature curation, citation management, and knowledge synthesis
+- **Intellectual mapping**: Systematizing conceptual relationships across domains
+- **Ecological cognition**: Understanding socio-cognitive processes in naturalistic contexts
 
 ## About
 
-I'm a cognitive psychologist with expertise in experimental design, statistical modeling, and data science. My work bridges laboratory research and applied settings, with a focus on capturing cognition as it unfolds in real time.
+I'm a cognitive psychologist with expertise in experimental design, statistical modeling, and data science. My research combines rigorous methodology with practical tool-building, using LLMs and modern data science to tackle questions about human cognition, social dynamics, and research practice itself.
 
 **Background:**
 - PhD in Cognitive Psychology (Cognitive Neuroscience concentration)
 - BA in Psychology and English Literature, Purchase College (Summa Cum Laude)
-- Experience in EMA research (Saul Shiffman's lab, University of Pittsburgh)
-- Founder of a digital platform company using SMS-based assessment for team and individual performance
+- EMA research experience (Saul Shiffman's lab, University of Pittsburgh)
+- Founded digital platform company using SMS-based assessment for team performance and individual development
 
 **Methods & Tools:**
-- Statistical modeling (GLM tradition)
-- R, Python, SAS, SPSS, SQL
-- Experimental design and psychometrics
-- Text-based data collection systems
+
+*Statistical & Computational*
+- GLM tradition, mixed models, psychometrics, SEM
+- R, Python, SQL
+- Quarto for reproducible research
+- Git/GitHub for version control
+
+*Research Infrastructure*
+- LLM-assisted literature synthesis and curation
+- Citation management and knowledge graphs
+- Interactive dashboards and visualization
+- Web-based research tools
+
+*Data Collection*
+- Ecological Momentary Assessment (EMA)
+- Experimental design
+- Text-based and mobile platforms
+
+## Current Work
+
+**[Violence Research](/projects/violence/dashboard/)** - Interactive evidence synthesis dashboard exploring ecological levels of violence, with plans for model card development and real-time event tracking
+
+**Hallucitation Study** - Pilot investigation of domain and expertise factors in AI-generated citation hallucinations (with GPTZero)
+
+**Evaluation Methods** - Comparative analysis of frameworks and best practices across educational and AI evaluation domains
 
 ## Links
 
@@ -37,12 +60,6 @@ I'm a cognitive psychologist with expertise in experimental design, statistical 
 - [LinkedIn](https://www.linkedin.com/in/jzstafura)
 - [GitHub](https://github.com/JZStafura-Lab)
 
-## Current Projects
-
-*In development - check back soon*
-
 ---
 
-*This site hosts both project documentation and reproducible code for ongoing research.*
-
-
+*JAB Lab: Joe's Astoundingly Broke Lab - Independent research with a learning-while-doing philosophy*

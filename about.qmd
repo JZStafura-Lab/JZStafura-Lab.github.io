@@ -1,5 +1,67 @@
 ---
-title: "About"
+title: "About JAB Lab"
 ---
 
-About this site
+## Mission
+
+JAB Lab (Joe's Astoundingly Broke Lab) uses modern technology to amplify the creation of research tools and execution of small-scale research. We embrace a learning-while-doing approach: systematic curation and synthesis paired with flexibility in execution.
+
+## Research Philosophy
+
+Independent research doesn't require institutional affiliation to be rigorous. By combining:
+- Modern computational tools (LLMs, Python/R, Quarto)
+- Systematic evidence synthesis
+- Iterative tool development
+- Open science practices
+
+...we can tackle sophisticated questions about cognition, social behavior, and research practice itself.
+
+## Current Focus Areas
+
+### Violence Research
+Multi-level evidence synthesis examining individual, relational, community, and societal factors. Building toward model cards and real-time event pattern detection.
+
+### AI & Scholarship  
+Investigating hallucitated citations in academic work - when do they occur, who detects them, what contexts enable them? Pilot study in progress with GPTZero.
+
+### Evaluation Methods
+Comparing frameworks across educational and AI evaluation. Where do best practices converge? How do validity, replicability, and accessibility differ across domains?
+
+### Research Tools
+Developing platforms for literature curation, citation management, knowledge synthesis, and conceptual mapping. Making research infrastructure accessible.
+
+## Principal Investigator
+
+**Joseph Zachary (JZ) Stafura, PhD**
+
+Cognitive psychologist with expertise spanning experimental methods, statistical modeling, and data science. Research bridges laboratory precision and real-world complexity.
+
+**Education:**
+- PhD, Cognitive Psychology (Cognitive Neuroscience concentration)  
+- BA, Psychology & English Literature, Purchase College (Summa Cum Laude)
+
+**Experience:**
+- EMA research, Saul Shiffman's lab (University of Pittsburgh)
+- Founded SMS-based assessment platform for team performance and individual development
+- Published work in language processing, memory, and cognitive neuroscience
+
+**Methodological Expertise:**
+- Statistical modeling (GLM, mixed models, SEM, psychometrics)
+- Programming (R, Python, SQL)
+- Experimental design and analysis
+- Ecological Momentary Assessment
+- LLM-assisted research synthesis
+- Reproducible research workflows (Quarto, Git)
+
+[Google Scholar](https://scholar.google.com/citations?user=F6LcYIoAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/jzstafura) | [GitHub](https://github.com/JZStafura-Lab)
+
+## Why "JAB Lab"?
+
+The tongue-in-cheek name reflects the reality: this is self-funded, informal, and built on belief that creative research attracts the right opportunities - whether collaboration, employment, or eventually running a fully independent operation.
+
+The informal style is a feature, not a bug. It enables rapid iteration, methodological flexibility, and focus on questions that matter rather than institutional politics.
+
+## Get Involved
+
+Interested in collaboration or have questions about the work?  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/jzstafura)
