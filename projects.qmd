@@ -38,6 +38,18 @@ Developing and validating assessment tools for individual and team performance. 
 
 ---
 
+### [Intellectual Network Map](https://jzstafura-lab.github.io/intellectual-map/)
+
+Interactive visualization of 450+ books organized by core intellectual problems rather than academic disciplines. Maps connections between 8 fundamental domains (Consciousness, Language, Violence, Social Structure, Aesthetic Experience, Self/Subject, Temporality, Place/Space), identifies knowledge gaps, and highlights bridge authors who span multiple fields.
+
+**Methods:** Network analysis, Python/NetworkX, Plotly visualization, Wikipedia API integration, conceptual mapping
+
+**Status:** Active - Live visualization deployed with interactive features
+
+[View live project](https://jzstafura-lab.github.io/intellectual-map/) | [GitHub](https://github.com/JZStafura-Lab/intellectual-map)
+
+---
+
 ## Past Projects
 
 *Coming soon*

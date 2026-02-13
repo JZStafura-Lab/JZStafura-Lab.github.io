@@ -59,7 +59,7 @@ Custom visualization and reporting tools for research communication.
 
 **Technologies:** R (ggplot2, plotly), Python (matplotlib, seaborn), Quarto, HTML/CSS
 
-**Featured:** Ecological-level violence synthesis, citation browsers
+**Featured:** [Violence Research Dashboard](/projects/violence/dashboard/), [Intellectual Network Map](https://jzstafura-lab.github.io/intellectual-map/) - Network visualization of 450+ books across intellectual domains
 
 **Status:** Active
 

@@ -58,6 +58,8 @@ I'm a cognitive psychologist with expertise in experimental design, statistical 
 
 **Evaluation Methods** - Comparative analysis of frameworks and best practices across educational and AI evaluation domains
 
+**[Intellectual Network Map](https://jzstafura-lab.github.io/intellectual-map/)** - Interactive visualization mapping 450+ books across 8 intellectual problem domains, revealing connections and knowledge gaps
+
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=F6LcYIoAAAAJ&hl=en)

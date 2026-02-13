@@ -27,6 +27,9 @@ Investigating hallucitated citations in academic work - when do they occur, who 
 ### Evaluation Methods
 Comparing frameworks across educational and AI evaluation. Where do best practices converge? How do validity, replicability, and accessibility differ across domains?
 
+### Intellectual Network Map
+Interactive visualization mapping personal reading collection across 8 core intellectual problem domains. Reveals conceptual connections, identifies knowledge gaps, and highlights bridge authors who span multiple fields. Built with Python/NetworkX and deployed as an interactive web application.
+
 ### Research Tools
 Developing platforms for literature curation, citation management, knowledge synthesis, and conceptual mapping. Making research infrastructure accessible.
 
