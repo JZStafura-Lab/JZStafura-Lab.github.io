@@ -3,6 +3,10 @@ title: "Joe's Astoundingly Broke (JAB) Lab"
 subtitle: "Cognitive Psychology, Neuroscience & Data Science"
 ---
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="assets/jab_lab_logo_final.svg" alt="JAB Lab Logo" style="max-width: 600px; width: 100%;">
+</div>
+
 ## Welcome
 
 JAB Lab uses modern technology to amplify the creation of research tools and the execution of small-scale research. We take a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution.
