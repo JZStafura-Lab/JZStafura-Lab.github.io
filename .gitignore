@@ -220,3 +220,11 @@ data/raw/
 data/processed/
 # But maybe keep small example datasets:
 !data/examples/*.csv
+
+# Ignore large data but keep examples
+data/*
+!data/examples/
+
+# Site generation
+_site/
+.quarto/
