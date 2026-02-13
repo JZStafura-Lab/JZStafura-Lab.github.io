@@ -2,51 +2,93 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About JAB Lab",
     "section": "",
-    "text": "About this site"
+    "text": "JAB Lab (Joe’s Astoundingly Broke Lab) uses modern technology to amplify the creation of research tools and execution of small-scale research. We embrace a learning-while-doing approach: systematic curation and synthesis paired with flexibility in execution."
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About JAB Lab",
+    "section": "",
+    "text": "JAB Lab (Joe’s Astoundingly Broke Lab) uses modern technology to amplify the creation of research tools and execution of small-scale research. We embrace a learning-while-doing approach: systematic curation and synthesis paired with flexibility in execution."
+  },
+  {
+    "objectID": "about.html#research-philosophy",
+    "href": "about.html#research-philosophy",
+    "title": "About JAB Lab",
+    "section": "Research Philosophy",
+    "text": "Research Philosophy\nIndependent research doesn’t require institutional affiliation to be rigorous. By combining: - Modern computational tools (LLMs, Python/R, Quarto) - Systematic evidence synthesis - Iterative tool development - Open science practices\n…we can tackle sophisticated questions about cognition, social behavior, and research practice itself."
+  },
+  {
+    "objectID": "about.html#current-focus-areas",
+    "href": "about.html#current-focus-areas",
+    "title": "About JAB Lab",
+    "section": "Current Focus Areas",
+    "text": "Current Focus Areas\n\nViolence Research\nMulti-level evidence synthesis examining individual, relational, community, and societal factors. Building toward model cards and real-time event pattern detection.\n\n\nAI & Scholarship\nInvestigating hallucitated citations in academic work - when do they occur, who detects them, what contexts enable them? Pilot study in progress with GPTZero.\n\n\nEvaluation Methods\nComparing frameworks across educational and AI evaluation. Where do best practices converge? How do validity, replicability, and accessibility differ across domains?\n\n\nResearch Tools\nDeveloping platforms for literature curation, citation management, knowledge synthesis, and conceptual mapping. Making research infrastructure accessible."
+  },
+  {
+    "objectID": "about.html#principal-investigator",
+    "href": "about.html#principal-investigator",
+    "title": "About JAB Lab",
+    "section": "Principal Investigator",
+    "text": "Principal Investigator\nJoseph Zachary (JZ) Stafura, PhD\nCognitive psychologist with expertise spanning experimental methods, statistical modeling, and data science. Research bridges laboratory precision and real-world complexity.\nEducation: - PhD, Cognitive Psychology (Cognitive Neuroscience concentration)\n- BA, Psychology & English Literature, Purchase College (Summa Cum Laude)\nExperience: - EMA research, Saul Shiffman’s lab (University of Pittsburgh) - Founded SMS-based assessment platform for team performance and individual development - Published work in language processing, memory, and cognitive neuroscience\nMethodological Expertise: - Statistical modeling (GLM, mixed models, SEM, psychometrics) - Programming (R, Python, SQL) - Experimental design and analysis - Ecological Momentary Assessment - LLM-assisted research synthesis - Reproducible research workflows (Quarto, Git)\nGoogle Scholar | LinkedIn | GitHub"
+  },
+  {
+    "objectID": "about.html#why-jab-lab",
+    "href": "about.html#why-jab-lab",
+    "title": "About JAB Lab",
+    "section": "Why “JAB Lab”?",
+    "text": "Why “JAB Lab”?\nThe tongue-in-cheek name reflects the reality: this is self-funded, informal, and built on belief that creative research attracts the right opportunities - whether collaboration, employment, or eventually running a fully independent operation.\nThe informal style is a feature, not a bug. It enables rapid iteration, methodological flexibility, and focus on questions that matter rather than institutional politics."
+  },
+  {
+    "objectID": "about.html#get-involved",
+    "href": "about.html#get-involved",
+    "title": "About JAB Lab",
+    "section": "Get Involved",
+    "text": "Get Involved\nInterested in collaboration or have questions about the work?\nConnect: LinkedIn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "JAB Lab",
     "section": "",
-    "text": "JAB Lab focuses on understanding human cognition through rigorous experimental methods and advanced analytics. We explore questions at the intersection of cognitive psychology, neuroscience, and real-world behavior."
+    "text": "JAB Lab uses modern technology to amplify the creation of research tools and the execution of small-scale research. We take a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "JAB Lab",
     "section": "",
-    "text": "JAB Lab focuses on understanding human cognition through rigorous experimental methods and advanced analytics. We explore questions at the intersection of cognitive psychology, neuroscience, and real-world behavior."
+    "text": "JAB Lab uses modern technology to amplify the creation of research tools and the execution of small-scale research. We take a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "JAB Lab",
     "section": "Research Interests",
-    "text": "Research Interests\n\nCognitive processes in naturalistic contexts\nEcological Momentary Assessment (EMA) methodologies\nTeam performance and individual development\nLanguage, memory, and motivation\nComputational approaches to psychological data"
+    "text": "Research Interests\nCurrent work explores cognitive and social processes through evidence synthesis, computational methods, and tool development:\n\nViolence research: Multi-level evidence synthesis across individual, relational, community, and societal factors\nAI evaluation: Examining hallucinated citations in scholarly work; comparing evaluation frameworks in education vs. AI domains\nResearch tools: Building platforms for literature curation, citation management, and knowledge synthesis\nIntellectual mapping: Systematizing conceptual relationships across domains\nEcological cognition: Understanding socio-cognitive processes in naturalistic contexts"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "JAB Lab",
     "section": "About",
-    "text": "About\nI’m a cognitive psychologist with expertise in experimental design, statistical modeling, and data science. My work bridges laboratory research and applied settings, with a focus on capturing cognition as it unfolds in real time.\nBackground: - PhD in Cognitive Psychology (Cognitive Neuroscience concentration) - BA in Psychology and English Literature, Purchase College (Summa Cum Laude) - Experience in EMA research (Saul Shiffman’s lab, University of Pittsburgh) - Founder of a digital platform company using SMS-based assessment for team and individual performance\nMethods & Tools: - Statistical modeling (GLM tradition) - R, Python, SAS, SPSS, SQL - Experimental design and psychometrics - Text-based data collection systems"
+    "text": "About\nI’m a cognitive psychologist with expertise in experimental design, statistical modeling, and data science. My research combines rigorous methodology with practical tool-building, using LLMs and modern data science to tackle questions about human cognition, social dynamics, and research practice itself.\nBackground: - PhD in Cognitive Psychology (Cognitive Neuroscience concentration) - BA in Psychology and English Literature, Purchase College (Summa Cum Laude) - EMA research experience (Saul Shiffman’s lab, University of Pittsburgh) - Founded digital platform company using SMS-based assessment for team performance and individual development\nMethods & Tools:\nStatistical & Computational - GLM tradition, mixed models, psychometrics, SEM - R, Python, SQL - Quarto for reproducible research - Git/GitHub for version control\nResearch Infrastructure - LLM-assisted literature synthesis and curation - Citation management and knowledge graphs - Interactive dashboards and visualization - Web-based research tools\nData Collection - Ecological Momentary Assessment (EMA) - Experimental design - Text-based and mobile platforms"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "JAB Lab",
+    "section": "Current Work",
+    "text": "Current Work\nViolence Research - Interactive evidence synthesis dashboard exploring ecological levels of violence, with plans for model card development and real-time event tracking\nHallucitation Study - Pilot investigation of domain and expertise factors in AI-generated citation hallucinations (with GPTZero)\nEvaluation Methods - Comparative analysis of frameworks and best practices across educational and AI evaluation domains"
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
     "title": "JAB Lab",
     "section": "Links",
-    "text": "Links\n\nGoogle Scholar\nLinkedIn\nGitHub"
-  },
-  {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "JAB Lab",
-    "section": "Current Projects",
-    "text": "Current Projects\nIn development - check back soon\n\nThis site hosts both project documentation and reproducible code for ongoing research."
+    "text": "Links\n\nGoogle Scholar\nLinkedIn\nGitHub\n\n\nJAB Lab: Joe’s Astoundingly Broke Lab - Independent research with a learning-while-doing philosophy"
   },
   {
     "objectID": "code.html",
