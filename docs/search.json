@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JAB Lab",
+    "section": "",
+    "text": "JAB Lab focuses on understanding human cognition through rigorous experimental methods and advanced analytics. We explore questions at the intersection of cognitive psychology, neuroscience, and real-world behavior."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "JAB Lab",
+    "section": "",
+    "text": "JAB Lab focuses on understanding human cognition through rigorous experimental methods and advanced analytics. We explore questions at the intersection of cognitive psychology, neuroscience, and real-world behavior."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "JAB Lab",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nCognitive processes in naturalistic contexts\nEcological Momentary Assessment (EMA) methodologies\nTeam performance and individual development\nLanguage, memory, and motivation\nComputational approaches to psychological data"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "JAB Lab",
+    "section": "About",
+    "text": "About\nI’m a cognitive psychologist with expertise in experimental design, statistical modeling, and data science. My work bridges laboratory research and applied settings, with a focus on capturing cognition as it unfolds in real time.\nBackground: - PhD in Cognitive Psychology (Cognitive Neuroscience concentration) - BA in Psychology and English Literature, Purchase College (Summa Cum Laude) - Experience in EMA research (Saul Shiffman’s lab, University of Pittsburgh) - Founder of a digital platform company using SMS-based assessment for team and individual performance\nMethods & Tools: - Statistical modeling (GLM tradition) - R, Python, SAS, SPSS, SQL - Experimental design and psychometrics - Text-based data collection systems"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "JAB Lab",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "JAB Lab",
+    "section": "Current Projects",
+    "text": "Current Projects\nIn development - check back soon\n\nThis site hosts both project documentation and reproducible code for ongoing research."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code & Tools",
+    "section": "",
+    "text": "This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.\nAll code is available on GitHub."
+  },
+  {
+    "objectID": "code.html#overview",
+    "href": "code.html#overview",
+    "title": "Code & Tools",
+    "section": "",
+    "text": "This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.\nAll code is available on GitHub."
+  },
+  {
+    "objectID": "code.html#research-tools",
+    "href": "code.html#research-tools",
+    "title": "Code & Tools",
+    "section": "Research Tools",
+    "text": "Research Tools\n\nEMA & Text-Based Assessment\nTools for ecological momentary assessment and SMS-based data collection systems.\nTechnologies: Python, R, SMS APIs\nStatus: In development\n\n\n\nStatistical Analysis Utilities\nReusable functions for mixed models, psychometric analysis, and longitudinal data.\nTechnologies: R, Python (statsmodels, scikit-learn)\nStatus: In development\n\n\n\nData Visualization\nCustom plotting functions and dashboard templates for research reporting.\nTechnologies: R (ggplot2), Python (matplotlib, plotly)\nStatus: In development"
+  },
+  {
+    "objectID": "code.html#example-datasets",
+    "href": "code.html#example-datasets",
+    "title": "Code & Tools",
+    "section": "Example Datasets",
+    "text": "Example Datasets\nSmall, anonymized example datasets for methodological demonstrations available in the repository."
+  },
+  {
+    "objectID": "code.html#contributing",
+    "href": "code.html#contributing",
+    "title": "Code & Tools",
+    "section": "Contributing",
+    "text": "Contributing\nInterested in collaborating? Connect via LinkedIn."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Investigating cognitive and social factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.\nMethods: Ecological Momentary Assessment, longitudinal modeling, risk assessment validation\nStatus: Active - Data collection and analysis ongoing\nView project details\n\n\n\n\nExamining perceptual and cognitive mechanisms of hallucinations across clinical and non-clinical populations. Exploring phenomenology, neural correlates, and assessment methods.\nMethods: Phenomenological interviews, cognitive assessment, psychometric validation, experience sampling\nStatus: Active - Assessment development and validation phase\nView project details\n\n\n\n\nDeveloping and validating assessment tools for individual and team performance. Emphasis on ecologically valid measurement in applied settings.\nMethods: EMA, text-based data collection, psychometric validation, team network analysis\nStatus: Active - Tool development and field testing\nView project details"
+  },
+  {
+    "objectID": "projects.html#current-research",
+    "href": "projects.html#current-research",
+    "title": "Projects",
+    "section": "",
+    "text": "Investigating cognitive and social factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.\nMethods: Ecological Momentary Assessment, longitudinal modeling, risk assessment validation\nStatus: Active - Data collection and analysis ongoing\nView project details\n\n\n\n\nExamining perceptual and cognitive mechanisms of hallucinations across clinical and non-clinical populations. Exploring phenomenology, neural correlates, and assessment methods.\nMethods: Phenomenological interviews, cognitive assessment, psychometric validation, experience sampling\nStatus: Active - Assessment development and validation phase\nView project details\n\n\n\n\nDeveloping and validating assessment tools for individual and team performance. Emphasis on ecologically valid measurement in applied settings.\nMethods: EMA, text-based data collection, psychometric validation, team network analysis\nStatus: Active - Tool development and field testing\nView project details"
+  },
+  {
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
+    "title": "Projects",
+    "section": "Past Projects",
+    "text": "Past Projects\nComing soon"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For a complete list of publications, see my Google Scholar profile."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "For a complete list of publications, see my Google Scholar profile."
+  },
+  {
+    "objectID": "publications.html#selected-works",
+    "href": "publications.html#selected-works",
+    "title": "Publications",
+    "section": "Selected Works",
+    "text": "Selected Works\nPublications will be listed here as projects develop"
+  },
+  {
+    "objectID": "publications.html#presentations-talks",
+    "href": "publications.html#presentations-talks",
+    "title": "Publications",
+    "section": "Presentations & Talks",
+    "text": "Presentations & Talks\nComing soon"
+  },
+  {
+    "objectID": "publications.html#preprints-working-papers",
+    "href": "publications.html#preprints-working-papers",
+    "title": "Publications",
+    "section": "Preprints & Working Papers",
+    "text": "Preprints & Working Papers\nComing soon"
+  },
+  {
+    "objectID": "publications.html#contact",
+    "href": "publications.html#contact",
+    "title": "Publications",
+    "section": "Contact",
+    "text": "Contact\nFor reprints or collaboration inquiries, connect via LinkedIn."
+  }
+]

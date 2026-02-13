@@ -1,0 +1,50 @@
+---
+title: "Code & Tools"
+---
+
+## Overview
+
+This page showcases reusable code, analysis tools, and research utilities developed for JAB Lab projects.
+
+All code is available on [GitHub](https://github.com/JZStafura-Lab).
+
+---
+
+## Research Tools
+
+### EMA & Text-Based Assessment
+Tools for ecological momentary assessment and SMS-based data collection systems.
+
+**Technologies:** Python, R, SMS APIs
+
+**Status:** In development
+
+---
+
+### Statistical Analysis Utilities
+Reusable functions for mixed models, psychometric analysis, and longitudinal data.
+
+**Technologies:** R, Python (statsmodels, scikit-learn)
+
+**Status:** In development
+
+---
+
+### Data Visualization
+Custom plotting functions and dashboard templates for research reporting.
+
+**Technologies:** R (ggplot2), Python (matplotlib, plotly)
+
+**Status:** In development
+
+---
+
+## Example Datasets
+
+Small, anonymized example datasets for methodological demonstrations available in the [repository](https://github.com/JZStafura-Lab/JZStafura-Lab.github.io/tree/main/data/examples).
+
+---
+
+## Contributing
+
+Interested in collaborating? Connect via [LinkedIn](https://www.linkedin.com/in/jzstafura).

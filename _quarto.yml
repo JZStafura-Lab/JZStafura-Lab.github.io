@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "JAB Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Projects
+        href: projects.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Code
+        href: code.qmd
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/JZStafura-Lab
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jzstafura
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+

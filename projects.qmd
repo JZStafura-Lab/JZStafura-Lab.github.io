@@ -1,0 +1,45 @@
+---
+title: "Projects"
+---
+
+## Current Research
+
+### Violence Research
+
+Investigating cognitive and social factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
+
+**Methods:** Ecological Momentary Assessment, longitudinal modeling, risk assessment validation
+
+**Status:** Active - Data collection and analysis ongoing
+
+[View project details](projects/violence/)
+
+---
+
+### Hallucinations Study
+
+Examining perceptual and cognitive mechanisms of hallucinations across clinical and non-clinical populations. Exploring phenomenology, neural correlates, and assessment methods.
+
+**Methods:** Phenomenological interviews, cognitive assessment, psychometric validation, experience sampling
+
+**Status:** Active - Assessment development and validation phase
+
+[View project details](projects/hallucinations/)
+
+---
+
+### Evaluation Methods
+
+Developing and validating assessment tools for individual and team performance. Emphasis on ecologically valid measurement in applied settings.
+
+**Methods:** EMA, text-based data collection, psychometric validation, team network analysis
+
+**Status:** Active - Tool development and field testing
+
+[View project details](projects/evaluation/)
+
+---
+
+## Past Projects
+
+*Coming soon*
