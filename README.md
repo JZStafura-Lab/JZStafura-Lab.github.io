@@ -25,7 +25,7 @@ Phase 2 (planned) model cards are created for each source collected in Phase 1, 
 
 ### Hallucitations Study
 
-Examining the domain and expertise factorz underlying submitted and published texts containing AI hallucinations (e.g., "Hallucitations"). Currently conducting a pilot study with resource assitance from GPTZero.
+Examining the domain and expertise factors underlying submitted and published texts containing AI hallucinations (e.g., "Hallucitations"). Currently conducting a pilot study with resource assitance from GPTZero.
 
 ### Evaluation Methods
 
