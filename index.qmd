@@ -23,32 +23,30 @@ Current work explores cognitive and social processes through evidence synthesis,
 
 ## About
 
-I'm a cognitive psychologist with expertise in experimental design, statistical modeling, and data science. My research combines rigorous methodology with practical tool-building, using LLMs and modern data science to tackle questions about human cognition, social dynamics, and research practice itself.
+I'm a cognitive psychologist specializing in research synthesis, computational methods, and applied cognition. My work combines traditional experimental rigor with modern AI-assisted research tools to tackle questions in violence, scholarly integrity, and evaluation science.
 
 **Background:**
-- PhD in Cognitive Psychology (Cognitive Neuroscience concentration)
-- BA in Psychology and English Literature, Purchase College (Summa Cum Laude)
-- EMA research experience (Saul Shiffman's lab, University of Pittsburgh)
-- Founded digital platform company using SMS-based assessment for team performance and individual development
+- PhD in Cognitive Psychology (Cognitive Neuroscience concentration), advised by Charles Perfetti
+- Co-authored highly cited theoretical framework in reading comprehension (Perfetti & Stafura, 2014; 2046 citations, Google Scholar)
+- First-author ERP study of word-to-text integration (Stafura & Perfetti, 2014, Neuropsychologia; 59 citations, Google Scholar)
+- BA in Psychology & English Literature, Purchase College (Summa Cum Laude)
+- EMA research experience, Saul Shiffman's lab (University of Pittsburgh)
+- Founded SMS-based assessment platform for team performance and individual development
 
 **Methods & Tools:**
 
 *Statistical & Computational*
-- GLM tradition, mixed models, psychometrics, SEM
-- R, Python, SQL
-- Quarto for reproducible research
-- Git/GitHub for version control
+- Statistical modeling (GLM, mixed models, SEM, psychometrics)
+- Programming and data science (R, Python, SQL, SAS, SPSS)
+- Reproducible workflows (Quarto, Git, computational notebooks)
+- Experimental design and ecological assessment methods
 
-*Research Infrastructure*
-- LLM-assisted literature synthesis and curation
+*Research Infrastructure & AI-Assisted Work*
+- LLM-assisted research synthesis and evidence curation
+- Interactive dashboard development (violence research, evaluation frameworks)
+- Research administration tools (NOFO parsing, budget justification generation)
 - Citation management and knowledge graphs
-- Interactive dashboards and visualization
-- Web-based research tools
-
-*Data Collection*
-- Ecological Momentary Assessment (EMA)
-- Experimental design
-- Text-based and mobile platforms
+- Web-based research tools and visualization
 
 ## Current Work
 
