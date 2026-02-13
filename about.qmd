@@ -61,15 +61,16 @@ Cognitive psychologist combining rigorous experimental methods with modern data 
 - Web-based research tools and data visualization
 
 *Background & Context*
-- EMA research experience (Saul Shiffman's lab, University of Pittsburgh)
-- Founded SMS-based assessment platform for team performance measurement
-- Published research in language processing, memory, and cognitive neuroscience
+- Founded SMS-based assessment platform for team performance and individual development
+- Extensive EEG/ERP work: event-related potential studies, factor analysis (PCA), wavelet analysis, laboratory setup and validation
+- Ecological Momentary Assessment research (University of Pittsburgh)
+- Published work in language processing, memory, and cognitive neuroscience
 
 [Google Scholar](https://scholar.google.com/citations?user=F6LcYIoAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/jzstafura) | [GitHub](https://github.com/JZStafura-Lab)
 
 ## Why "JAB Lab"?
 
-The tongue-in-cheek name reflects the reality: this is self-funded, informal, and built on belief that creative research attracts the right opportunities - whether collaboration, employment, or eventually running a fully independent operation.
+The tongue-in-cheek name reflects the reality: this is self-funded, informal, and built on the belief that doing creative, rigorous research attracts meaningful collaboration and opportunities.
 
 
 ## Get Involved
