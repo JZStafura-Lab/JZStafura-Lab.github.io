@@ -17,14 +17,21 @@ JAB Lab investigates human cognition through experimental methods, ecological as
 
 ## Current Projects
 
-### Violence Research
-Exploring cognitive, social, and ecological factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies.
+### [Violence Research](https://jzstafura-lab.github.io/projects/violence/dashboard/)
+Exploring cognitive, social, and ecological factors underlying interpersonal violence, with focus on prediction, prevention, and intervention strategies. Interactive evidence synthesis dashboard deployed.
+
+**[View Dashboard →](https://jzstafura-lab.github.io/projects/violence/dashboard/)**
 
 ### Hallucitation Project
 Examining domain and expertise factors underlying submitted and published texts containing AI hallucinations. Pilot study ongoing with resource assistance from GPTZero.
 
 ### Evaluation Methods
 Exploratory look into frameworks and methods in Educational Evaluation and AI Evaluation, comparing best practices, validity, replicability, and accessibility.
+
+### [Intellectual Network Map](https://jzstafura-lab.github.io/intellectual-map/)
+Interactive visualization of 450+ books organized by core intellectual problems rather than academic disciplines. Maps connections between 8 fundamental domains (Consciousness, Language, Violence, Social Structure, Aesthetic Experience, Self/Subject, Temporality, Place/Space), reveals knowledge gaps, and highlights bridge authors.
+
+**[View Project →](https://jzstafura-lab.github.io/intellectual-map/)** | **[GitHub Repo](https://github.com/JZStafura-Lab/intellectual-map)**
 
 ## Repository Structure
 
@@ -40,7 +47,7 @@ JZStafura-Lab.github.io/
 ├── publications.qmd              # Publications list
 ├── code.qmd                      # Code/tools showcase
 ├── styles.css                    # Custom styling
-├── projects/                     # Project-specific content (coming soon)
+├── projects/violence/            # Violence research dashboard
 ├── code/                         # Shared/reusable code (coming soon)
 ├── data/                         # Example datasets (coming soon)
 ├── assets/                       # Images, CSS, logos
