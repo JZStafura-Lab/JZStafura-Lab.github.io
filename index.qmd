@@ -11,52 +11,21 @@ subtitle: "Cognitive Psychology, Neuroscience & Data Science"
 
 JAB Lab uses modern technology to amplify the creation of research tools and the execution of small-scale research. We take a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution.
 
-## Research Interests
-
-Current work explores cognitive and social processes through evidence synthesis, computational methods, and tool development:
-
-- **Violence research**: Multi-level evidence synthesis across individual, relational, community, and societal factors
-- **AI evaluation**: Examining hallucinated citations in scholarly work; comparing evaluation frameworks in education vs. AI domains
-- **Research tools**: Building platforms for literature curation, citation management, and knowledge synthesis
-- **Intellectual mapping**: Systematizing conceptual relationships across domains
-- **Ecological cognition**: Understanding socio-cognitive processes in naturalistic contexts
-
 ## About
 
-I'm a cognitive psychologist specializing in research synthesis, computational methods, and applied cognition. My work combines traditional experimental rigor with modern AI-assisted research tools to tackle questions in violence, scholarly integrity, and evaluation science.
+I'm a cognitive psychologist combining experimental rigor with modern computational tools. My work focuses on evidence synthesis, research infrastructure development, and AI-assisted scholarship analysis. [Learn more about my background and methods](/about.qmd)
 
-**Background:**
-- PhD in Cognitive Psychology (Cognitive Neuroscience concentration), advised by Charles Perfetti
-- Co-authored highly cited theoretical framework in reading comprehension (Perfetti & Stafura, 2014; 2046 citations, Google Scholar)
-- First-author ERP study of word-to-text integration (Stafura & Perfetti, 2014, Neuropsychologia; 59 citations, Google Scholar)
-- BA in Psychology & English Literature, Purchase College (Summa Cum Laude)
-- EMA research experience, Saul Shiffman's lab (University of Pittsburgh)
-- Founded SMS-based assessment platform for team performance and individual development
+## Current Projects
 
-**Methods & Tools:**
+**[Violence Research Dashboard](/projects/violence/dashboard/)** - Multi-level evidence synthesis across individual, relational, community, and societal factors. Building toward model cards and real-time event pattern detection.
 
-*Statistical & Computational*
-- Statistical modeling (GLM, mixed models, SEM, psychometrics)
-- Programming and data science (R, Python, SQL, SAS, SPSS)
-- Reproducible workflows (Quarto, Git, computational notebooks)
-- Experimental design and ecological assessment methods
+**Hallucitation Study** - Pilot investigation examining domain and expertise factors in AI-generated citation hallucinations (with GPTZero)
 
-*Research Infrastructure & AI-Assisted Work*
-- LLM-assisted research synthesis and evidence curation
-- Interactive dashboard development (violence research, evaluation frameworks)
-- Research administration tools (NOFO parsing, budget justification generation)
-- Citation management and knowledge graphs
-- Web-based research tools and visualization
+**Evaluation Methods** - Comparative framework analysis across educational and AI evaluation domains. Where do best practices converge?
 
-## Current Work
+**[Intellectual Network Map](https://jzstafura-lab.github.io/intellectual-map/)** - Interactive visualization mapping 450+ books across 8 intellectual problem domains, revealing conceptual connections and knowledge gaps
 
-**[Violence Research](/projects/violence/dashboard/)** - Interactive evidence synthesis dashboard exploring ecological levels of violence, with plans for model card development and real-time event tracking
-
-**Hallucitation Study** - Pilot investigation of domain and expertise factors in AI-generated citation hallucinations (with GPTZero)
-
-**Evaluation Methods** - Comparative analysis of frameworks and best practices across educational and AI evaluation domains
-
-**[Intellectual Network Map](https://jzstafura-lab.github.io/intellectual-map/)** - Interactive visualization mapping 450+ books across 8 intellectual problem domains, revealing connections and knowledge gaps
+**Research Tools** - Developing platforms for literature curation, citation management, and knowledge synthesis
 
 ## Links
 
