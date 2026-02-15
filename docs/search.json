@@ -56,25 +56,18 @@
     "text": "Welcome\nJAB Lab uses modern technology to amplify the creation of research tools and the execution of small-scale research. We take a learning-while-doing approach that ensures content knowledge development through systematic curation and synthesis, as well as flexibility in execution."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Joe’s Astoundingly Broke (JAB) Lab",
-    "section": "Research Interests",
-    "text": "Research Interests\nCurrent work explores cognitive and social processes through evidence synthesis, computational methods, and tool development:\n\nViolence research: Multi-level evidence synthesis across individual, relational, community, and societal factors\nAI evaluation: Examining hallucinated citations in scholarly work; comparing evaluation frameworks in education vs. AI domains\nResearch tools: Building platforms for literature curation, citation management, and knowledge synthesis\nIntellectual mapping: Systematizing conceptual relationships across domains\nEcological cognition: Understanding socio-cognitive processes in naturalistic contexts"
-  },
-  {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Joe’s Astoundingly Broke (JAB) Lab",
     "section": "About",
-    "text": "About\nI’m a cognitive psychologist specializing in research synthesis, computational methods, and applied cognition. My work combines traditional experimental rigor with modern AI-assisted research tools to tackle questions in violence, scholarly integrity, and evaluation science.\nBackground: - PhD in Cognitive Psychology (Cognitive Neuroscience concentration), advised by Charles Perfetti - Co-authored highly cited theoretical framework in reading comprehension (Perfetti & Stafura, 2014; 2046 citations, Google Scholar) - First-author ERP study of word-to-text integration (Stafura & Perfetti, 2014, Neuropsychologia; 59 citations, Google Scholar) - BA in Psychology & English Literature, Purchase College (Summa Cum Laude) - EMA research experience, Saul Shiffman’s lab (University of Pittsburgh) - Founded SMS-based assessment platform for team performance and individual development\nMethods & Tools:\nStatistical & Computational - Statistical modeling (GLM, mixed models, SEM, psychometrics) - Programming and data science (R, Python, SQL, SAS, SPSS) - Reproducible workflows (Quarto, Git, computational notebooks) - Experimental design and ecological assessment methods\nResearch Infrastructure & AI-Assisted Work - LLM-assisted research synthesis and evidence curation - Interactive dashboard development (violence research, evaluation frameworks) - Research administration tools (NOFO parsing, budget justification generation) - Citation management and knowledge graphs - Web-based research tools and visualization"
+    "text": "About\nI’m a cognitive psychologist combining experimental rigor with modern computational tools. My work focuses on evidence synthesis, research infrastructure development, and AI-assisted scholarship analysis. Learn more about my background and methods"
   },
   {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
     "title": "Joe’s Astoundingly Broke (JAB) Lab",
-    "section": "Current Work",
-    "text": "Current Work\nViolence Research - Interactive evidence synthesis dashboard exploring ecological levels of violence, with plans for model card development and real-time event tracking\nHallucitation Study - Pilot investigation of domain and expertise factors in AI-generated citation hallucinations (with GPTZero)\nEvaluation Methods - Comparative analysis of frameworks and best practices across educational and AI evaluation domains\nIntellectual Network Map - Interactive visualization mapping 450+ books across 8 intellectual problem domains, revealing connections and knowledge gaps"
+    "section": "Current Projects",
+    "text": "Current Projects\nViolence Research Dashboard - Multi-level evidence synthesis across individual, relational, community, and societal factors. Building toward model cards and real-time event pattern detection.\nHallucitation Study - Pilot investigation examining domain and expertise factors in AI-generated citation hallucinations (with GPTZero)\nEvaluation Methods - Comparative framework analysis across educational and AI evaluation domains. Where do best practices converge?\nIntellectual Network Map - Interactive visualization mapping 450+ books across 8 intellectual problem domains, revealing conceptual connections and knowledge gaps\nResearch Tools - Developing platforms for literature curation, citation management, and knowledge synthesis"
   },
   {
     "objectID": "index.html#links",
