@@ -4,13 +4,14 @@ title: "Projects"
 
 ## Current Research
 
-### [Violence Research Dashboard](/projects/violence/dashboard/index.html)
-Interactive evidence synthesis exploring ecological levels of violence
-**Methods:** Ecological Momentary Assessment, longitudinal modeling, risk assessment validation
+### [Violence Research Dashboard](/projects/violence/dashboard/)
+Interactive evidence synthesis exploring ecological levels of violence across individual, relational, community, and societal factors. Building toward model cards and real-time event pattern detection.
 
-**Status:** Active - Data collection and analysis ongoing
+**Methods:** Evidence synthesis, ecological systems modeling, interactive visualization
 
-[View project details](projects/violence/)
+**Status:** Active - Dashboard deployed and expanding evidence base
+
+[Explore the dashboard](/projects/violence/dashboard/)
 
 ---
 
@@ -22,8 +23,6 @@ Examining domain and expertise factors underlying AI-generated citation hallucin
 
 **Status:** Pilot study - In progress with resource assistance from GPTZero
 
-[View project details](projects/hallucitations/)
-
 ---
 
 ### Evaluation Methods
@@ -33,8 +32,6 @@ Developing and validating assessment tools for individual and team performance. 
 **Methods:** EMA, text-based data collection, psychometric validation, team network analysis
 
 **Status:** Active - Tool development and field testing
-
-[View project details](projects/evaluation/)
 
 ---
 
