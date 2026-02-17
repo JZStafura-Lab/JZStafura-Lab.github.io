@@ -22,8 +22,10 @@ Exploring cognitive, social, and ecological factors underlying interpersonal vio
 
 **[View Dashboard →](https://jzstafura-lab.github.io/projects/violence/dashboard/)**
 
-### Hallucitation Project
-Examining domain and expertise factors underlying submitted and published texts containing AI hallucinations. Pilot study ongoing with resource assistance from GPTZero.
+### [Hallucitation Project](https://jzstafura-lab.github.io/hallucitation-detection/)
+Examining when and why AI-assisted writing produces fabricated citations in submitted and accepted academic papers. Tests three hypotheses: author expertise distance, field publication velocity, and section location.
+
+**[View Project →](https://jzstafura-lab.github.io/hallucitation-detection/)** | **[GitHub Repo](https://github.com/JZStafura-Lab/hallucitation-detection)**
 
 ### Evaluation Methods
 Exploratory look into frameworks and methods in Educational Evaluation and AI Evaluation, comparing best practices, validity, replicability, and accessibility.
