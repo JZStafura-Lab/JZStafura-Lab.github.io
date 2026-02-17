@@ -19,7 +19,7 @@ I'm a cognitive psychologist combining experimental rigor with modern computatio
 
 **[Violence Research Dashboard](/projects/violence/dashboard/)** - Multi-level evidence synthesis across individual, relational, community, and societal factors. Building toward model cards and real-time event pattern detection.
 
-**Hallucitation Study** - Pilot investigation examining domain and expertise factors in AI-generated citation hallucinations (with GPTZero)
+**[Hallucitation Study](https://jzstafura-lab.github.io/hallucitation-detection/)** - Examining when and why AI-assisted writing produces fabricated citations. Tests three hypotheses: author expertise distance, field publication velocity, and section location. ([Project site](https://jzstafura-lab.github.io/hallucitation-detection/))
 
 **Evaluation Methods** - Comparative framework analysis across educational and AI evaluation domains. Where do best practices converge?
 

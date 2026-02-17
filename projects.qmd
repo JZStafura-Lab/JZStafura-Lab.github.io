@@ -15,13 +15,15 @@ Interactive evidence synthesis exploring ecological levels of violence across in
 
 ---
 
-### Hallucitation Project
+### [Hallucitation Project](https://jzstafura-lab.github.io/hallucitation-detection/)
 
-Examining domain and expertise factors underlying AI-generated citation hallucinations in scholarly and professional writing. Investigating when and why hallucinated citations ("hallucitations") appear in submitted and published texts.
+Examining when and why AI-assisted writing produces fabricated citations in submitted and accepted academic papers. The study tests three pre-registered hypotheses: whether hallucination rates vary by (1) author expertise distance from the cited domain, (2) field publication velocity, and (3) paper section (e.g., Related Work vs. Methods).
 
-**Methods:** Text analysis, citation verification, domain expertise assessment, LLM-assisted detection
+**Methods:** Stratified sampling across venues, automated citation extraction, CrossRef verification, GPTZero scoring, systematic manual coding
 
-**Status:** Pilot study - In progress with resource assistance from GPTZero
+**Status:** Pilot study — active pipeline development
+
+[Project site](https://jzstafura-lab.github.io/hallucitation-detection/) | [GitHub](https://github.com/JZStafura-Lab/hallucitation-detection)
 
 ---
 
