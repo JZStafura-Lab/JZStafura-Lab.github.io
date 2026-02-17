@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - projects/violence/dashboard/
 
 website:
   title: "JAB Lab"
