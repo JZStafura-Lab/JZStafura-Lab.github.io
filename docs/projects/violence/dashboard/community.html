@@ -626,7 +626,7 @@
                     <span class="nav-link-dot" style="background: var(--color-relational);"></span>Relational
                 </a>
                 <a href="individual.html" class="nav-link">
-                    <span class="nav-link-dot" style="background: var(--color-individual);"></span>Individual
+                    <span class="nav-link-dot" style="background: var(--color-individual);</span>Individual
                 </a>
             </div>
         </div>
@@ -645,19 +645,19 @@
                 <span class="level-badge">Second Ring</span>
             </h1>
             <p class="page-header-desc">
-                Neighborhood and local environmental factors that shape violence risk: social disorganization, collective efficacy, environmental triggers like heat, and the physical and social characteristics of places where violence concentrates.
+                Neighborhood and local environmental factors that shape violence risk: social disorganization, collective efficacy, network contagion, environmental triggers like heat, and the physical and social characteristics of places where violence concentrates.
             </p>
             <div class="level-stats">
                 <div class="level-stat">
-                    <span class="level-stat-value">12</span>
+                    <span class="level-stat-value">19</span>
                     <span class="level-stat-label">studies</span>
                 </div>
                 <div class="level-stat">
-                    <span class="level-stat-value">4</span>
+                    <span class="level-stat-value">6</span>
                     <span class="level-stat-label">constructs</span>
                 </div>
                 <div class="level-stat">
-                    <span class="level-stat-value">3</span>
+                    <span class="level-stat-value">2</span>
                     <span class="level-stat-label">meta-analyses</span>
                 </div>
             </div>
@@ -771,7 +771,7 @@
             <div class="theme-header">
                 <div class="theme-icon">🏘️</div>
                 <div>
-                    <h2>Social Disorganization & Collective Efficacy</h2>
+                    <h2>Social Disorganization &amp; Collective Efficacy</h2>
                     <p>How neighborhood social structures mediate the relationship between disadvantage and violence</p>
                 </div>
             </div>
@@ -780,16 +780,106 @@
                 <article class="study-card">
                     <div class="study-card-header">
                         <div>
+                            <span class="study-type-badge empirical">Empirical — Foundational Test</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Community Structure and Crime: Testing Social-Disorganization Theory</h3>
+                    <div class="study-effect">
+                        <span class="study-effect-value">β = .35</span>
+                        <span class="study-effect-label">unsupervised peer groups → street robbery (WLS, N=238 communities)</span>
+                    </div>
+                    <p class="study-synthesis">
+                        First large-scale empirical test of Shaw &amp; McKay using British Crime Survey data across 238 communities. Structural conditions (poverty, residential instability, ethnic heterogeneity, family disruption) predict crime primarily through three mediating mechanisms: <strong>unsupervised teenage peer groups</strong> (strongest predictor, β = .35 on mugging, .34 on total victimization), sparse local friendship networks (β = −.19 on mugging), and low organizational participation. Social disorganization dimensions mediate over 50% of structural factor effects on total victimization. Replicated on an independent 1984 BCS sample of 300 communities.
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Sampson, R. J., &amp; Groves, W. B. (1989). Community structure and crime: Testing social-disorganization theory. <em>American Journal of Sociology, 94</em>(4), 774–802.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.1086/229068" target="_blank" class="study-link">DOI: 10.1086/229068 →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-sampsongroves">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">WLS path analysis</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">238 British communities; N=10,905 residents</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Key effect</div>
+                                <div class="study-detail-value">Unsupervised peer groups β = .35 on mugging (R² = .61)</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-sampsongroves', this)">Show details ↓</button>
+                </article>
+
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
+                            <span class="study-type-badge empirical">Empirical — HLM</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Neighborhoods and Violent Crime: A Multilevel Study of Collective Efficacy</h3>
+                    <div class="study-effect">
+                        <span class="study-effect-value">β = −0.45</span>
+                        <span class="study-effect-label">collective efficacy → perceived violence (HLM, N=343 neighborhoods)</span>
+                    </div>
+                    <p class="study-synthesis">
+                        Introduces <strong>collective efficacy</strong> — the combination of social cohesion and shared willingness to intervene — as the key mechanism mediating concentrated disadvantage's effect on violence. Using PHDCN data from 343 Chicago neighborhoods, the standardized coefficient for collective efficacy on perceived violence is β = −0.45 (t = −5.95). A 2-SD elevation in collective efficacy predicts a 39.7% reduction in expected homicide rate and 30% reduction in victimization odds. Effects persist after controlling for prior homicide. Collective efficacy accounts for 77.8% of between-neighborhood variance in perceived violence.
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Sampson, R. J., Raudenbush, S. W., &amp; Earls, F. (1997). Neighborhoods and violent crime: A multilevel study of collective efficacy. <em>Science, 277</em>(5328), 918–924.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.1126/science.277.5328.918" target="_blank" class="study-link">DOI: 10.1126/science.277.5328.918 →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-sampson1997">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">HLM (hierarchical linear modeling)</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">8,782 Chicago residents; 343 neighborhoods (PHDCN)</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Homicide effect</div>
+                                <div class="study-detail-value">2-SD CE elevation → 39.7% reduction in expected homicide</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-sampson1997', this)">Show details ↓</button>
+                </article>
+
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
                             <span class="study-type-badge empirical">Empirical Replication</span>
                         </div>
                     </div>
                     <h3 class="study-title">Replicating Sampson and Groves's Test of Social Disorganization Theory</h3>
                     <p class="study-synthesis">
-                        Successful replication of the foundational test confirming that community structural factors—residential instability, ethnic heterogeneity, family disruption, urbanization, and poverty—mediate the poverty-crime relationship through their effects on local friendship networks, organizational participation, and unsupervised teenage peer groups. <strong>Collective efficacy</strong> (social trust + willingness to intervene) emerges as the key protective factor.
+                        Successful replication of the foundational test confirming that community structural factors — residential instability, ethnic heterogeneity, family disruption, urbanization, and poverty — mediate the poverty-crime relationship through their effects on local friendship networks, organizational participation, and unsupervised teenage peer groups. <strong>Collective efficacy</strong> (social trust + willingness to intervene) emerges as the key protective factor.
                     </p>
                     <div class="study-citation">
                         <p class="study-citation-text">
-                            Lowenkamp, C. T., Cullen, F. T., & Pratt, T. C. (2003). Replicating Sampson and Groves's test of social disorganization theory: Revisiting a criminological classic. <em>Journal of Research in Crime and Delinquency, 40</em>(4), 351–373.
+                            Lowenkamp, C. T., Cullen, F. T., &amp; Pratt, T. C. (2003). Replicating Sampson and Groves's test of social disorganization theory: Revisiting a criminological classic. <em>Journal of Research in Crime and Delinquency, 40</em>(4), 351–373.
                         </p>
                         <div class="study-links">
                             <a href="https://doi.org/10.1177/0022427803256077" target="_blank" class="study-link">
@@ -820,6 +910,241 @@
             </div>
         </section>
 
+        <!-- Theme: Network Contagion of Violence -->
+        <section class="theme-section">
+            <div class="theme-header">
+                <div class="theme-icon">🕸️</div>
+                <div>
+                    <h2>Network Contagion of Violence</h2>
+                    <p>How violence spreads through social networks like a communicable process, concentrated in identifiable subpopulations</p>
+                </div>
+            </div>
+
+            <div class="studies-grid">
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
+                            <span class="study-type-badge empirical">Empirical — Network Analysis</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Network Exposure and Homicide Victimization in an African American Community</h3>
+                    <div class="study-effect">
+                        <span class="study-effect-value">−57%</span>
+                        <span class="study-effect-label">reduction in homicide odds per degree of separation from victim (OR = 0.43)</span>
+                    </div>
+                    <p class="study-synthesis">
+                        In a high-crime Chicago community (N = 3,718; 2006–2011), 41% of all gun homicides occurred in a co-offending network comprising <strong>&lt;4% of the neighborhood population</strong>. Being in a network component with a homicide victim increases the annual homicide rate by 900% (from 55.2 to 554.1 per 100,000). Each social tie removed from a homicide victim decreases one's odds of victimization by 57% (OR = 0.430). Network variables absorb most individual risk factor effects, reducing model AIC from 910 to 415. Effects robust to neighborhood fixed effects. Source of the "900%" figure often misattributed to later papers.
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Papachristos, A. V., &amp; Wildeman, C. (2014). Network exposure and homicide victimization in an African American community. <em>American Journal of Public Health, 104</em>(1), 143–150.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.2105/AJPH.2013.301441" target="_blank" class="study-link">DOI: 10.2105/AJPH.2013.301441 →</a>
+                            <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910029/" target="_blank" class="study-link">PMC Open Access →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-wildeman2014">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">Logistic regression; co-offending network analysis</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">3,718 high-risk individuals; Chicago 2006–2011</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Key finding</div>
+                                <div class="study-detail-value">OR = 0.430 per degree; 900% rate increase for network members</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-wildeman2014', this)">Show details ↓</button>
+                </article>
+
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
+                            <span class="study-type-badge empirical">Empirical — Network Analysis</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Tragic, but Not Random: The Social Contagion of Nonfatal Gunshot Injuries</h3>
+                    <div class="study-effect">
+                        <span class="study-effect-value">OR = 3.13</span>
+                        <span class="study-effect-label">per 1° of network exposure to gunshot victims (N = 169,620, Chicago)</span>
+                    </div>
+                    <p class="study-synthesis">
+                        In Chicago's city-wide co-offending network (N = 169,620; 2006–2012), <strong>70% of all nonfatal gunshot injuries</strong> occurred in networks comprising less than 6% of the city's population. Network exposure to gunshot victims predicts individual victimization after controlling for demographics and gang membership: OR = 3.13 at 1 degree, rising to OR = 14.68 at ≤3 degrees (best-fitting model). Every 1% increase in exposure increases odds by 1.1%. Gang membership independently triples victimization risk (OR = 3.30). Effects extend to 2–3 degrees of separation. Rate for network members: 740.5 per 100,000 vs. city average of 62.1 (12× higher).
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Papachristos, A. V., Wildeman, C., &amp; Roberto, E. (2015). Tragic, but not random: The social contagion of nonfatal gunshot injuries. <em>Social Science &amp; Medicine, 125</em>, 139–150.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.1016/j.socscimed.2014.01.056" target="_blank" class="study-link">DOI: 10.1016/j.socscimed.2014.01.056 →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-papachristos2015">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">Logistic regression; affiliation exposure models</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">169,620 individuals; Chicago 2006–2012</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Exposure OR at ≤3 degrees</div>
+                                <div class="study-detail-value">14.68 (AIC-best model)</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-papachristos2015', this)">Show details ↓</button>
+                </article>
+
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
+                            <span class="study-type-badge empirical">Empirical — Network Analysis</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Social Networks and the Risk of Gunshot Injury</h3>
+                    <div class="study-effect">
+                        <span class="study-effect-value">−25%</span>
+                        <span class="study-effect-label">reduction in gunshot odds per network degree from victim (OR = 0.754; Boston)</span>
+                    </div>
+                    <p class="study-synthesis">
+                        In Boston's Cape Verdean community, <strong>85% of all gunshot injuries</strong> in a network of 763 individuals occurred within a single connected component. Each network step removed from a gunshot victim decreases odds of victimization by 25% (OR = 0.754; 95% CI, 0.654–0.869), controlling for age, arrest history, gang membership, and network density. Effect levels off after approximately 5 degrees of separation. Gang members show more pronounced social distance effects. Prior arrest more than doubles victimization odds (OR = 1.85). First study to use formal network models to analyze gunshot risk in a defined high-risk population.
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Papachristos, A. V., Braga, A. A., &amp; Hureau, D. M. (2012). Social networks and the risk of gunshot injury. <em>Journal of Urban Health, 89</em>(6), 992–1003.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.1007/s11524-012-9703-9" target="_blank" class="study-link">DOI: 10.1007/s11524-012-9703-9 →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-papachristos2012">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">Rare-event logistic regression; network geodesic analysis</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">763 individuals; Boston Cape Verdean community 2008–2009</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Key finding</div>
+                                <div class="study-detail-value">OR = 0.754 per degree (25% reduction); 85% injuries in one network</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-papachristos2012', this)">Show details ↓</button>
+                </article>
+
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
+                            <span class="study-type-badge empirical">Empirical — Epidemic Modeling</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Modeling Contagion Through Social Networks to Explain and Predict Gunshot Violence in Chicago, 2006–2014</h3>
+                    <div class="study-effect">
+                        <span class="study-effect-value">63.1%</span>
+                        <span class="study-effect-label">of gunshot violence episodes attributable to social contagion (N = 138,163)</span>
+                    </div>
+                    <p class="study-synthesis">
+                        Using a Hawkes process epidemic model fitted to 8 years of Chicago arrest and shooting data (N = 138,163), social contagion accounts for <strong>63.1% of all gunshot violence episodes</strong>. Subjects were shot an average of 125 days after their network infector (median: 83 days). A combined contagion + demographics model identifies <strong>53.3% more gunshot subjects</strong> than demographics alone when targeting the top 1% highest-risk individuals daily. 4,107 distinct contagion cascades detected; largest cascade: 469 subjects. Strongest evidence to date that violence follows epidemic-like transmission dynamics through interpersonal networks.
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Green, B., Horel, T., &amp; Papachristos, A. V. (2017). Modeling contagion through social networks to explain and predict gunshot violence in Chicago, 2006 to 2014. <em>JAMA Internal Medicine, 177</em>(3), 326–333.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.1001/jamainternmed.2016.8245" target="_blank" class="study-link">DOI: 10.1001/jamainternmed.2016.8245 →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-green2017">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">Hawkes point process; probabilistic contagion model</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">138,163 individuals; Chicago 2006–2014; 11,123 episodes</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Contagion interval</div>
+                                <div class="study-detail-value">Mean 125 days; median 83 days after infector</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-green2017', this)">Show details ↓</button>
+                </article>
+
+                <article class="study-card">
+                    <div class="study-card-header">
+                        <div>
+                            <span class="study-type-badge empirical">Empirical — ERGM / Network Regression</span>
+                        </div>
+                    </div>
+                    <h3 class="study-title">Connected in Crime: The Enduring Effect of Neighborhood Networks on the Spatial Patterning of Violence</h3>
+                    <p class="study-synthesis">
+                        Co-offending networks among 172,714 individuals (~6% of Chicago's population) link all city neighborhoods through short chains of co-arrest ties — all neighborhoods are "connected in crime" by just a few handshakes, regardless of geographic or social distance. Using exponential random graph models (ERGMs) and network autoregressive models with PHDCN data, the authors find: (1) neighborhood co-offending networks are <strong>stable over time</strong>; (2) generated by concentrated disadvantage, collective efficacy deficits, and endogenous network properties; (3) <strong>better predictors of crime distribution than spatial adjacency models</strong>. Bridges Social Disorganization theory with Network Contagion by showing how neighborhood structure generates the network topology that enables violence diffusion.
+                    </p>
+                    <div class="study-citation">
+                        <p class="study-citation-text">
+                            Papachristos, A. V., &amp; Bastomski, S. (2018). Connected in crime: The enduring effect of neighborhood networks on the spatial patterning of violence. <em>American Journal of Sociology, 124</em>(2), 517–568.
+                        </p>
+                        <div class="study-links">
+                            <a href="https://doi.org/10.1086/697544" target="_blank" class="study-link">DOI: 10.1086/697544 →</a>
+                        </div>
+                    </div>
+                    <div class="study-details" id="details-bastomski2018">
+                        <div class="study-details-grid">
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Methodology</div>
+                                <div class="study-detail-value">ERGM; network autoregressive models; PHDCN + CPD data</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Sample</div>
+                                <div class="study-detail-value">172,714 individuals; all Chicago neighborhoods; 1999–2004</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Key finding</div>
+                                <div class="study-detail-value">Network models outperform spatial adjacency for predicting crime distribution</div>
+                            </div>
+                            <div class="study-detail-item">
+                                <div class="study-detail-label">Evidence Quality</div>
+                                <div class="study-detail-value">5/5</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="expand-btn" onclick="toggleDetails('details-bastomski2018', this)">Show details ↓</button>
+                </article>
+            </div>
+        </section>
+
         <!-- Key Insight Box -->
         <section class="theme-section">
             <div class="theme-header">
@@ -834,7 +1159,7 @@
                 <article class="study-card" style="border-left: 4px solid var(--color-accent);">
                     <h3 class="study-title">The Place-Based Nature of Violence</h3>
                     <p class="study-synthesis">
-                        Community-level research reveals that violence is highly concentrated in specific places—often "hot spots" comprising a small percentage of addresses that generate a disproportionate share of violent incidents. This concentration reflects the intersection of environmental triggers (heat, physical disorder) with social processes (weak collective efficacy, limited informal social control). Interventions targeting either dimension alone show limited effects; the most promising approaches address both simultaneously through place-based strategies that combine environmental design with community capacity building.
+                        Community-level research reveals that violence is highly concentrated in specific places — often "hot spots" comprising a small percentage of addresses that generate a disproportionate share of violent incidents. This concentration reflects the intersection of environmental triggers (heat, physical disorder) with social processes (weak collective efficacy, limited informal social control) and network structure (contagion pathways that concentrate risk in small identifiable subpopulations). The network contagion evidence shows that by targeting high-risk network members rather than places alone, interventions can achieve substantially better identification of at-risk individuals.
                     </p>
                 </article>
             </div>
@@ -851,21 +1176,21 @@
                     <div class="related-color" style="background: var(--color-societal);"></div>
                     <div class="related-content">
                         <h4>← Societal Level</h4>
-                        <p>Structural inequality and political exclusion create concentrated disadvantage that manifests as neighborhood-level social disorganization.</p>
+                        <p>Structural inequality and political exclusion create concentrated disadvantage that manifests as neighborhood-level social disorganization and generates the co-offending network topology enabling violence contagion.</p>
                     </div>
                 </a>
                 <a href="relational.html" class="related-card">
                     <div class="related-color" style="background: var(--color-relational);"></div>
                     <div class="related-content">
                         <h4>→ Relational Level</h4>
-                        <p>Weak collective efficacy disrupts family and peer networks, reducing informal social support that buffers against violence.</p>
+                        <p>Weak collective efficacy disrupts family and peer networks; network contagion operates through dyadic co-offending ties — the relational substrate through which violence spreads.</p>
                     </div>
                 </a>
                 <a href="individual.html" class="related-card">
                     <div class="related-color" style="background: var(--color-individual);"></div>
                     <div class="related-content">
                         <h4>→ Individual Level</h4>
-                        <p>Environmental stressors like heat interact with individual arousal states described in the General Aggression Model to increase violence risk.</p>
+                        <p>Environmental stressors interact with individual arousal states; gang membership and network position — individual-level attributes — determine one's position in high-risk contagion networks.</p>
                     </div>
                 </a>
             </div>
